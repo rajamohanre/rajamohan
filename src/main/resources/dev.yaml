@@ -1,0 +1,7 @@
+http:
+  port: "5555"
+  host: "localhost"
+  path: "rajamohan"
+  
+db:
+  user:![efHIS5XS0x7/80sm+jOfHQ==]
